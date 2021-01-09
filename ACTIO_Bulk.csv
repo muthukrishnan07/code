@@ -1,0 +1,6 @@
+sno,fullName,isdCode,mobileNumber,emailID,dob,idType,idNumber,userName,password
+1,developer1,91,9629012781,info@knila.com,02/01/1992,1,1234567891,knila,123456789
+2,muthu,91,9874563210,muthu@knila.com,10/07/1995,1,123654,muthu,123456
+3,krishnan,91,9874521632,krishna@knila.com,10/08/1995,1,98456445,krishna,123456
+4,developer2,91,6897451230,hello@knila.com,07/09/1995,1,22161564,hello,123456
+5,tester,91,9654781230,test@test.com,25/07/1995,2,89494545,tester,123456
